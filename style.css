@@ -16,3 +16,20 @@
     text-decoration: none;
     font-size: 18px;
   }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  button {
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background: royalblue;
+    border: 1px solid royalblue;
+    color: white; 
+  }
+    
