@@ -27,8 +27,8 @@ Features:
 Setup
 
 To set up this project, simply clone the repository and open the index.html file in your web browser
-.git clone https://github.com/yourusername/simple-landing-page.git
-cd simple-landing-page
+.git clone https://github.com/Misubold22/landing-page.git
+cd landing-page
 open index.html
 
 Usage
@@ -37,17 +37,10 @@ Customize the content of the landing page by editing the HTML and CSS files. You
 
 File Structure:
 
-simple-landing-page/
-│
-├── images/
-│   ├── barberry.png
-│   ├── chilli.png
-│   ├── pepper.png
-│   └── saffron.png
-│
-├── index.html
-├── style.css
-├── README.md
+landing-page/images/barberry.png,chilli.png,pepper.png, saffron.png
+index.html
+style.css
+README.md
 
 -index.html: The main HTML file that contains the structure of the landing page.
 -style.css: The CSS file that contains styles for the landing page.
