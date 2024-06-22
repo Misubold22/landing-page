@@ -1,0 +1,18 @@
+.header {
+    background: #1F2937;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    padding: 20px;
+    padding-left: 50px;
+  }
+  
+  a {
+    color: #E5E7EB;
+    text-decoration: none;
+    font-size: 18px;
+  }
