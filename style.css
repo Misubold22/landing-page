@@ -103,4 +103,43 @@
   .info-image {
     border: 5px solid #3882f6;
     border-radius: 12px;
+  }
+  
+  section {
+    height: 40vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #E5E7EB;
+  }
+  
+  .quote {
+    width: 70%;
+    margin-left: 70px;
+  }
+  
+  .quote p {
+    padding: 0 3em;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+  }
+  
+  .quote .text {
+    padding-top: 1em;
+    font-style: italic;
+    letter-spacing: 0.02em;
+    font-size: 36px;
+    color: #1F2937;
+  }
+  
+  .quote .attr {
+    padding-bottom: 1em;
+    font-style: normal;
+    letter-spacing: 0.07em;
+    text-align: right;
+    color: #1F2937;
+    font-size: 18px;
+    margin-right: 80px;
   }  
